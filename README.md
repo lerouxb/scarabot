@@ -5,8 +5,8 @@ Idea
 ----
 
 I had this idea to build a parallel-arm SCARA style 3d printer similar to the
-RepRap Wally that uses DC motors and the AS5048A absolute position rotary
-encoder.
+RepRap [Wally](http://reprap.org/wiki/Wally) that uses DC motors and the
+AS5048A absolute position rotary encoder.
 
 The idea was that you could use just about any small DC motors and
 pretty much everything would be 3D printed apart from some off the shelf
